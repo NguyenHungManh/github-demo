@@ -9,5 +9,5 @@ This is a domo reppo to learn how to use Git and Github in a collaborative setti
 **Some description**
 Build simple guides and examples on how to use Git and Github
 
-# Project Objectives
-Data not available (sensitive)
+# Pycharm Title
+This is a Pycharm example
